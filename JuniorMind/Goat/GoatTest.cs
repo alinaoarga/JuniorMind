@@ -14,7 +14,9 @@ namespace Goat
         }
         float CalculateDifferentAmountOfHay(int numberOfDays, int numberOfGoats, float amountOfHay, int differentNumberOfDays, int differentNumberOfGoats)
         {
-            return (numberOfDays*differentNumberOfGoats*amountOfHay)/(differentNumberOfDays*numberOfGoats);
+            float numerator = numberOfDays * differentNumberOfGoats * amountOfHay;
+            float denominator = differentNumberOfDays * numberOfGoats;
+            return numerator / denominator;
         }
 
     }
