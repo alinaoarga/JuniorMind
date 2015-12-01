@@ -7,7 +7,7 @@ namespace Rehearsal
     public class RehearsalTest
     {
         [TestMethod]
-        public void secondRehearsal()
+        public void SecondRehearsal()
         {
             int number = CalculateRehearsal(2, 2);
             Assert.AreEqual(4, number);
@@ -15,7 +15,7 @@ namespace Rehearsal
 
         [TestMethod]
 
-        public void thirdRehearsal()
+        public void ThirdRehearsal()
         {
             int number = CalculateRehearsal(3, 3);
             Assert.AreEqual(9, number);
@@ -25,7 +25,7 @@ namespace Rehearsal
             return round * round;
         }
     }
-        }
-       
-    
+}
+
+
 
