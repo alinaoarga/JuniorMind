@@ -14,7 +14,9 @@ namespace Mushrooms
         }
         int CalculateNumberOfRedMushrooms(int totalNumberOfMushrooms, int differenceBetweenRedAndWhiteMushrooms)
         {
-            return (totalNumberOfMushrooms * differenceBetweenRedAndWhiteMushrooms) / (differenceBetweenRedAndWhiteMushrooms + 1);
+            int firstPartOfFormula = totalNumberOfMushrooms * differenceBetweenRedAndWhiteMushrooms;
+            int secondPartOfFarmula = differenceBetweenRedAndWhiteMushrooms + 1;
+            return firstPartOfFormula / secondPartOfFarmula;
         }
     }
 }
