@@ -18,6 +18,12 @@ namespace Mushrooms
             int number = CalculateNumberOfRedMushrooms(12, 2);
             Assert.AreEqual(8, number);
         }
+        [TestMethod]
+        public void ThirdMushroomsTest()
+        {
+            int number = CalculateNumberOfRedMushrooms(18, 5);
+            Assert.AreEqual(15, number);
+        }
         int CalculateNumberOfRedMushrooms(int totalNumberOfMushrooms, int differenceBetweenRedAndWhiteMushrooms)
         {
             int firstPartOfFormula = totalNumberOfMushrooms * differenceBetweenRedAndWhiteMushrooms;
