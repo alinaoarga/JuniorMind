@@ -1,0 +1,6 @@
+C:\Users\Baby Blue\Documents\GitHub\JuniorMind\JuniorMind\Pavement\bin\Debug\Pavement.dll
+C:\Users\Baby Blue\Documents\GitHub\JuniorMind\JuniorMind\Pavement\bin\Debug\Pavement.pdb
+C:\Users\Baby Blue\Documents\GitHub\JuniorMind\JuniorMind\Pavement\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Baby Blue\Documents\GitHub\JuniorMind\JuniorMind\Pavement\obj\Debug\Pavement.csprojResolveAssemblyReference.cache
+C:\Users\Baby Blue\Documents\GitHub\JuniorMind\JuniorMind\Pavement\obj\Debug\Pavement.dll
+C:\Users\Baby Blue\Documents\GitHub\JuniorMind\JuniorMind\Pavement\obj\Debug\Pavement.pdb

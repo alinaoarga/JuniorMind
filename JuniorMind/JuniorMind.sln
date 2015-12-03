@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mushrooms", "Mushrooms\Mush
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trains", "Trains\Trains.csproj", "{1640713F-A76B-425B-9596-20D9A8E50AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pavement", "Pavement\Pavement.csproj", "{8E58852C-3A95-4E84-88AC-F3F60BB95739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1640713F-A76B-425B-9596-20D9A8E50AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1640713F-A76B-425B-9596-20D9A8E50AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1640713F-A76B-425B-9596-20D9A8E50AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E58852C-3A95-4E84-88AC-F3F60BB95739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E58852C-3A95-4E84-88AC-F3F60BB95739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E58852C-3A95-4E84-88AC-F3F60BB95739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E58852C-3A95-4E84-88AC-F3F60BB95739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
