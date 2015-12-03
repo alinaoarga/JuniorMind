@@ -9,7 +9,7 @@ namespace Pavement
         [TestMethod]
         public void FirstCobblestoneTest()
         {
-           decimal number = CalculateCobblestoneNumber(6, 6, 4);
+            decimal number = CalculateCobblestoneNumber(6, 6, 4);
             Assert.AreEqual(4, number);
         }
         [TestMethod]
